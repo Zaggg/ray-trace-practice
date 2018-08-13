@@ -1,9 +1,9 @@
-# ray-trace-practice
+## description
 ray tracing practice code windows version which are original in book series 'ray tracing in a weekend'.
 
 
-# platform
+## platform
 windows10
 
-# reference
+## reference
 wait to be added
