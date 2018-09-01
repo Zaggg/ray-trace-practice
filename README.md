@@ -6,4 +6,4 @@ ray tracing practice code windows version which are original in book series 'ray
 windows10
 
 ## reference
-wait to be added
+The module convert .ppm to .png use some works of [Lode Vandevenne](http://lodev.org/lodepng/) and [henrikoldcorn](https://github.com/henrikoldcorn/ppmtopng)
